@@ -766,7 +766,8 @@ desserializados com a conversão de volta à um objeto.
       Quando trabalhamos com Java, qual padrão de desenvolvimento é adotado na persistência de dados em
 arquivos?
       <p> 
-         Resposta
+        Nesse projeto foram utilizadas a classe ObjectOutputStream para escrever objetos em um arquivo "[prefixo].fisica.bin e [prefixo].juridica.bin"
+e a classe ObjectInputStream para ler os objetos dos mesmos arquivos.
       </p>
    </li>
 
@@ -788,7 +789,7 @@ modificador?
    <li>
       Como o uso de classes de repositório impactou na organização do código?
       <p> 
-         Resposta
+        As classes de repositórios serviram para gerenciar,centralizar e organizar as atividades de inserir, excluir, alterar, localizar, recuperar e salvar os dados de pessoa física e jurídica. 
       </p>
    </li>
 </ul>
