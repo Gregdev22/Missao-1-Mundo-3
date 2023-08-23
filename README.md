@@ -726,6 +726,26 @@ public class CadastroPOO2 {
 :triangular_flag_on_post: Procedimento 2:
 
 https://github.com/Gregdev22/Missao-1-Mundo-3/assets/103840468/16647a6f-122e-4a3c-8cc8-e61cdcde2050
-
+<hr>
+<h1>Análise e Conclusão</h1>
+<ul>
+   <li>
+      Quais as vantagens e desvantagens do uso de herança?
+      <p> Resposta</p>
+   </li>
+   <li>
+      Por que a interface Serializable é necessária ao efetuar persistência em arquivos binários?
+      <p> Resposta</p>
+   </li>
+   <li>
+      Como o paradigma funcional é utilizado pela API stream no Java?
+      <p> Resposta</p>
+   </li>
+   <li>
+      Quando trabalhamos com Java, qual padrão de desenvolvimento é adotado na persistência de dados em
+arquivos?
+      <p> Resposta</p>
+   </li>
+</ul>
 
 
