@@ -34,6 +34,23 @@ em arquivos, baseado na tecnologia Java. </h2>
 
 <h2> Códigos </h2>
  Procedimento 1: (Link para a pasta com os codigos do procedimento)
+ <br>
+ Procedimento 2: (Link para a pasta com os codigos do procedimento)
+<hr>
+<br>
+Entidades:
+<br>
+
+* Classe Pessoa
+  
+```java
+
+package model;
+
+/**
+ *
+ * @author grego
+ */
 
 import java.io.Serializable;
 
@@ -68,6 +85,87 @@ public class Pessoa implements Serializable{
         System.out.print("id: "+this.id + "\n" + "Nome: " + this.nome + "\n");
     }
 }
+```
+
+* Classe PessoaFisica
 
 
+```java
+  package model;
 
+/**
+ *
+ * @author grego
+ */
+
+import java.io.Serializable;
+
+public class PessoaFisica extends Pessoa implements Serializable {
+    
+    private String cpf;
+    private int idade;
+    
+    //Constutor
+    public PessoaFisica(int id, String nome, String cpf, int idade){
+        super(id, nome);
+        this.cpf = cpf;
+        this.idade = idade;
+    }
+    
+    public String getCpf() {
+        return cpf;
+    }
+
+    public void setCpf(String cpf) {
+        this.cpf = cpf;
+    }
+    
+    public int getIdade(){
+        return idade;
+    }
+    
+    public void setIdade(int idade){
+        this.idade = idade;
+    }
+    
+    //Método exibir
+    public void exibir(){
+        System.out.print("\n"+"id: "+getId()+"\nNome: "+getNome()+ "\nCPF: "+this.cpf + "\n" + "Idade: " + this.idade + "\n");
+    }
+}
+```
+* Classe PessoaJuridica
+  
+```java
+package model;
+
+/**
+ *
+ * @author grego
+ */
+
+import java.io.Serializable;
+
+public class PessoaJuridica extends Pessoa implements Serializable{
+    
+    private String cnpj;
+    
+     //Constutor
+    public PessoaJuridica(int id, String nome, String cnpj){
+        super(id, nome);
+        this.cnpj = cnpj;
+    }
+    
+    public String getCnpj() {
+        return cnpj;
+    }
+
+    public void setCnpj(String cnpj) {
+        this.cnpj = cnpj;
+    }
+    
+    public void exibir(){
+        System.out.print("\n" + "id: "+getId()+ "\nNome: "+getNome()+"\nCNPJ: "+this.cnpj+"\n");
+    }
+}
+```
