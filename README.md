@@ -774,14 +774,14 @@ arquivos?
       O que são elementos estáticos e qual o motivo para o método main adotar esse 
 modificador?
       <p> 
-         Resposta
+         Os elementos estáticos são elementos que "existem", ou seja, estão disponíveis para uso, sem a necessidade de serem instânciados. Podem ser utilizados em código sem a necessidade de existirem objetos produzidos (sem a necessidade de um comando "new Classe()").
       </p>
    </li>
 
    <li>
       Para que serve a classe Scanner ?
       <p> 
-         Resposta
+         Para leitura de dados de entrada (inteiros, boolean, string, etc) inseridos pelo ususario atraves do teclado. 
       </p>
    </li>
 
