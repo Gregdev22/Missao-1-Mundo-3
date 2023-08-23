@@ -19,6 +19,7 @@
 em arquivos, baseado na tecnologia Java. </h2> 
  <h3>Procedimento 1: Criação das Entidades e Sistema de Persistência </h3>
  <h3>Procedimento 2: Criação do Cadastro em Modo Texto </h3>
+ 
  <hr>
 
 
@@ -33,9 +34,10 @@ em arquivos, baseado na tecnologia Java. </h2>
 
 
 <h2> Códigos </h2>
- [Procedimento 1](https://github.com/Gregdev22/Missao-1-Mundo-3/tree/main/CadastroPOO)
- <br>
- Procedimento 2: (Link para a pasta com os codigos do procedimento)
+
+[Procedimento 1: Criação das Entidades e Sistema de Persistência](https://github.com/Gregdev22/Missao-1-Mundo-3/tree/main/CadastroPOO)
+<br>
+[Procedimento 2: Criação do Cadastro em Modo Texto](https://github.com/Gregdev22/Missao-1-Mundo-3/tree/main/CadastroPOO2)
 <hr>
 <br>
 Entidades:
