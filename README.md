@@ -731,20 +731,43 @@ https://github.com/Gregdev22/Missao-1-Mundo-3/assets/103840468/16647a6f-122e-4a3
 <ul>
    <li>
       Quais as vantagens e desvantagens do uso de herança?
-      <p> Resposta</p>
+      <p> 
+        <h4> <strong>Vantagens: </strong></h4>
+         1. Classes podem herdar características(métodos e atributos) de outras classes situadas acima ou transmitir suas características às classes abaixo;
+         <br>
+         2. Evita repetir o mesmo código várias vezes;
+         <br>
+         3. Caso uma alteração seja necessária, ela só precisará ser feita na classe pai, e será automaticamente propagada para as subclasses.
+         <br>
+          <h4><strong> Desvantagens:</strong> </h4>
+         1. Fraco encapsulamento entre classes e subclasses e o forte acoplamento entre elas onde ao mudar uma superclasse pode afetar todas as subclasses;
+         <br>
+         2. Quando um objeto precisa ser de uma classe diferente em momentos diferentes e não é possível com a herança.
+         <br>
+      </p>
    </li>
+             
    <li>
       Por que a interface Serializable é necessária ao efetuar persistência em arquivos binários?
-      <p> Resposta</p>
+      <p> 
+         Essa interface permite que os objetos sejam serializados(convertidos em uma sequência de bytes) e
+desserializados com a conversão de volta à um objeto.
+      </p>
    </li>
+   
    <li>
       Como o paradigma funcional é utilizado pela API stream no Java?
-      <p> Resposta</p>
+      <p> 
+         A API stream é usada para manipular coleções (Collections) de uma maneira mais eficiente, utilizando funções.Ela possibilita uma iteração sobre essas coleções de objetos e, a cada elemento, realizar alguma ação, seja ela de filtragem, mapeamento, transformação, etc.
+      </p>
    </li>
+   
    <li>
       Quando trabalhamos com Java, qual padrão de desenvolvimento é adotado na persistência de dados em
 arquivos?
-      <p> Resposta</p>
+      <p> 
+         Resposta
+      </p>
    </li>
 </ul>
 
