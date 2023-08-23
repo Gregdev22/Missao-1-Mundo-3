@@ -725,7 +725,8 @@ public class CadastroPOO2 {
  <img src="https://github.com/Gregdev22/Missao-1-Mundo-3/blob/main/Captura%20de%20tela%202023-08-23%20053634.png" alt="resultado 1" width="320" height="320">
 
 <br>
-:triangular_flag_on_post: Procedimento 2:
+
+:triangular_flag_on_post:Procedimento 2: https://github.com/Gregdev22/Missao-1-Mundo-3/blob/main/cadastro-clientes-2x-feito-com-o-clipchamp_KcvO1kpf.mp4
 
 https://github.com/Gregdev22/Missao-1-Mundo-3/assets/103840468/16647a6f-122e-4a3c-8cc8-e61cdcde2050
 <hr>
