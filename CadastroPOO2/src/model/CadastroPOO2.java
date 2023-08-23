@@ -126,7 +126,7 @@ public class CadastroPOO2 {
                                     System.out.print("Novo CPF: ");
                                     String novoCPF = scan.nextLine();
 
-                                    System.out.println("Idade atual: " + pessoaFisicaLocalizada.getCpf());
+                                    System.out.println("Idade atual: " + pessoaFisicaLocalizada.getIdade());
                                     System.out.print("Nova Idade: ");
                                     int novaIdade = scan.nextInt();
 
