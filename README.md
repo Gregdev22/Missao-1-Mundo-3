@@ -769,6 +769,28 @@ arquivos?
          Resposta
       </p>
    </li>
+
+   <li>
+      O que são elementos estáticos e qual o motivo para o método main adotar esse 
+modificador?
+      <p> 
+         Resposta
+      </p>
+   </li>
+
+   <li>
+      Para que serve a classe Scanner ?
+      <p> 
+         Resposta
+      </p>
+   </li>
+
+   <li>
+      Como o uso de classes de repositório impactou na organização do código?
+      <p> 
+         Resposta
+      </p>
+   </li>
 </ul>
 
 
