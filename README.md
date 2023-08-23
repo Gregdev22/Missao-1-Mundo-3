@@ -720,7 +720,9 @@ public class CadastroPOO2 {
 <hr>
 <h1>Resultados: </h1>
 :triangular_flag_on_post: Procedimento 1: 
-https://github.com/Gregdev22/Missao-1-Mundo-3/blob/main/Captura%20de%20tela%202023-08-23%20053634.png
+ <img src="https://github.com/Gregdev22/Missao-1-Mundo-3/blob/main/Captura%20de%20tela%202023-08-23%20053634.png" alt="resultado 1" width="320" height="320">
+
+<br>
 :triangular_flag_on_post: Procedimento 2:
 
 
