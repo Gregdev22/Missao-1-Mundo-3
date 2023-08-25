@@ -7,7 +7,7 @@
      <hr>
 </div> 
 
-* DESENVOLVIMENTO FULL STACK- TURMA 9003
+* DESENVOLVIMENTO FULL STACK- TURMA 23.3
 * Disciplina: RPG0014  - Iniciando o caminho pelo Java
 * Semestre Letivo: 2023.2
 * Repositorio Git: https://github.com/Gregdev22/Missao-1-Mundo-3
